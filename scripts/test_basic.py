@@ -68,7 +68,7 @@ class TestGripTomo(unittest.TestCase):
         self.assertEqual(G.number_of_edges(), G_true.number_of_edges())
         self.assertEqual(G2.number_of_edges(), G_true.number_of_edges())
 
-
+#     # note: requires density file (too large to store on repository)
 #     def test_density2graph_pdb2density(self):
 #         ''' creates an example graph from an ideal density (pdb to mrc density) file and compares it to the expected output'''
 #         G_true = nx.read_gexf(Path(self.data_path,'3vjf_density2graph.gexf'))
