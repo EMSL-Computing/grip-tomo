@@ -68,37 +68,37 @@ class TestGripTomo(unittest.TestCase):
         self.assertEqual(G.number_of_edges(), G_true.number_of_edges())
         self.assertEqual(G2.number_of_edges(), G_true.number_of_edges())
 
-#     # note: requires density file (too large to store on repository)
-#     def test_density2graph_pdb2density(self):
-#         ''' creates an example graph from an ideal density (pdb to mrc density) file and compares it to the expected output'''
-#         G_true = nx.read_gexf(Path(self.data_path,'3vjf_density2graph.gexf'))
 
-#         # set parameters
-#         fname =  Path(self.data_path,'3vjf_density.mrc')
-#         t = 0.425  # pixel intensity threshold - unnormalized
-#         DBSCAN_epsilon = 1  # DBSCAN  epsilon
-#         DBSCAN_min_samples = 4  # DBSCAN min samples
-#         d_cut = 8  # pairwise cutoff distance in pixels (edge is assigned to two nodes if Euclidean distance <= cutoff distance)
-#         out_fname = fname.with_suffix('')  # output file name
+    def test_density2graph_pdb2density(self):
+        ''' creates an example graph from an ideal density (pdb to mrc density) file and compares it to the expected output'''
+        G_true = nx.read_gexf(Path(self.data_path,'3vjf_density2graph.gexf'))
 
-#         # conversion pipeline
-#         mrc = d2g.load_density_file(fname)  # load density file
-#         xyz_data = d2g.normalize_and_threshold_data(mrc,t)  # normalize data and threshold and then apply threshold
-#         model = d2g.cluster_data(xyz_data,DBSCAN_epsilon,DBSCAN_min_samples)  # cluster thresholded data using DBSCAN
-#         coarse_model = d2g.get_cluster_centroids(xyz_data,model)  # coarse grain model by getting cluster centroids
-#         G = d2g.create_and_save_graph(coarse_model,d_cut,out_fname, save=False)  # create graph where nodes = centroids, edges assigned by pairwise cutoff
+        # set parameters
+        fname =  Path(self.data_path,'3vjf_density.mrc')
+        t = 0.425  # pixel intensity threshold - unnormalized
+        DBSCAN_epsilon = 1  # DBSCAN  epsilon
+        DBSCAN_min_samples = 4  # DBSCAN min samples
+        d_cut = 8  # pairwise cutoff distance in pixels (edge is assigned to two nodes if Euclidean distance <= cutoff distance)
+        out_fname = fname.with_suffix('')  # output file name
+
+        # conversion pipeline
+        mrc = d2g.load_density_file(fname)  # load density file
+        xyz_data = d2g.normalize_and_threshold_data(mrc,t)  # normalize data and threshold and then apply threshold
+        model = d2g.cluster_data(xyz_data,DBSCAN_epsilon,DBSCAN_min_samples)  # cluster thresholded data using DBSCAN
+        coarse_model = d2g.get_cluster_centroids(xyz_data,model)  # coarse grain model by getting cluster centroids
+        G = d2g.create_and_save_graph(coarse_model,d_cut,out_fname, save=False)  # create graph where nodes = centroids, edges assigned by pairwise cutoff
       
-#         # test 1 - xyz_data is not empty
-#         self.assertTrue(xyz_data.size > 0)
+        # test 1 - xyz_data is not empty
+        self.assertTrue(xyz_data.size > 0)
 
-#         # test 2 - coarse_model is not empty
-#         self.assertTrue(coarse_model.size > 0)
+        # test 2 - coarse_model is not empty
+        self.assertTrue(coarse_model.size > 0)
 
-#         # test 3 - graph has the same number of nodes as expected
-#         self.assertEqual(G.number_of_nodes(), G_true.number_of_nodes())
+        # test 3 - graph has the same number of nodes as expected
+        self.assertEqual(G.number_of_nodes(), G_true.number_of_nodes())
 
-#         # test 4 - graph has the same number of edges as expected
-#         self.assertEqual(G.number_of_edges(), G_true.number_of_edges())
+        # test 4 - graph has the same number of edges as expected
+        self.assertEqual(G.number_of_edges(), G_true.number_of_edges())
 
 
     def test_graph2class(self):
