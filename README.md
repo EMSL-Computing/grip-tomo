@@ -30,7 +30,7 @@ The pipeline consists of 3 core modules:
 
 ### Manuscript and Citation
 ---
-"Graph identification of proteins in tomograms (GRIP-Tomo)" by August George, et al
+Please cite "Graph identification of proteins in tomograms (GRIP-Tomo)" by August George, et al
 
 
 preprint: https://doi.org/10.48550/arXiv.2210.08194
