@@ -1,6 +1,8 @@
 # GRIP-Tomo: GRaph Identification of Proteins in Tomograms
 A pipeline to help identify and classify structures in tomography data using global and local topological (network) features. 
-   
+
+[under development]
+
 **requires** `python 3.7 or 3.8`
 
 **API documentation** in `/docs`
@@ -28,7 +30,11 @@ The pipeline consists of 3 core modules:
 
 ### Manuscript and Citation
 ---
-**add citation here**
+Please cite "Graph identification of proteins in tomograms (GRIP-Tomo)" by August George, et al
+
+
+preprint: https://doi.org/10.48550/arXiv.2210.08194
+
 
 ---
 
