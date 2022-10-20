@@ -36,4 +36,5 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        cd grip_tomo | ls
+        cd ./grip_tomo 
+        python _test_basic.py
