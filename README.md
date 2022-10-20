@@ -9,6 +9,8 @@ The package consists of 3 core modules:
 2. `density2graph.py` - converts a 3D density to a graph. 
 3. `graph2class.py` - measures graph features and classifies
 
+[Documentation](https://grip-tomo.readthedocs.io/en/latest/)
+
 Requires python 3.8+
 
 ---
@@ -22,11 +24,9 @@ Requires python 3.8+
 4. **review example notebook, `grip_tomo/example_notebook.ipynb`**
     - To interact with `.ipynb` files install Jupyter-lab
 
-[Documentation](https://grip-tomo.readthedocs.io/en/latest/)
-
 ---
 
-### Manuscript and Citation
+### Citation
 
 If you found this tool helpful or want more information please cite: "Graph identification of proteins in tomograms (GRIP-Tomo)" by August George, et al
 
