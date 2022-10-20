@@ -1,7 +1,7 @@
 # GRIP-Tomo: GRaph Identification of Proteins in Tomograms
 
 [![Documentation Status](https://readthedocs.org/projects/grip-tomo/badge/?version=latest)](https://grip-tomo.readthedocs.io/en/latest/?badge=latest)
-[!Tests](https://github.com/EMSL-Computing/grip-tomo/blob/main/.github/workflows/python_build.yml/badge.svg)
+![Tests](https://github.com/EMSL-Computing/grip-tomo/.github/workflows/python_build.yml/badge.svg)
 
 A pipeline to help identify and classify structures in tomography data using global and local topological (network) features. 
 
