@@ -5,7 +5,7 @@ A pipeline to help identify and classify structures in tomography data using glo
 
 **requires** `python 3.8+`
 
-**API documentation** in `https://grip-tomo.readthedocs.io/en/latest/`
+**API documentation** in `(https://grip-tomo.readthedocs.io/en/latest/)`
 
 ### Quickstart guide:
 
