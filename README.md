@@ -27,7 +27,6 @@ Requires python 3.8+
 ---
 
 ### Manuscript and Citation
----
 
 If you found this tool helpful or want more information please cite: "Graph identification of proteins in tomograms (GRIP-Tomo)" by August George, et al
 
