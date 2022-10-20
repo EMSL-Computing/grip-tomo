@@ -13,8 +13,6 @@ The package consists of 3 core modules:
 
 [Documentation](https://grip-tomo.readthedocs.io/en/latest/)
 
-Requires python 3.8+
-
 ---
 
 ### Quickstart guide:
