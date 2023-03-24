@@ -27,10 +27,11 @@ The package consists of 3 core modules:
 ---
 
 ### Citation
+Please cite this work if you use it:
 
-If you found this tool helpful or want more information please cite: "Graph identification of proteins in tomograms (GRIP-Tomo)" by August George, et al
+> George, A, Kim, DN, Moser, T, Gildea, IT, Evans, JE, Cheung, MS. Graph identification of proteins in tomograms (GRIP-Tomo). Protein Science. 2023; 32( 1):e4538. https://doi.org/10.1002/pro.4538
 
-Preprint DOI: https://doi.org/10.48550/arXiv.2210.08194
+
 
 
 ---
