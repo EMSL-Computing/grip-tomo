@@ -28,11 +28,11 @@ The package consists of 3 core modules:
 ---
 
 ### Citation
-Please cite this work if you use it:
+Please cite our publication and accompanying software if you use it:
 
 > George, A, Kim, DN, Moser, T, Gildea, IT, Evans, JE, Cheung, MS. Graph identification of proteins in tomograms (GRIP-Tomo). Protein Science. 2023; 32( 1):e4538. https://doi.org/10.1002/pro.4538
 
-
+> George, A, Kim, DN, Moser, T, Gildea, IT, Evans, JE, Cheung, MS. EMSL-Computing/grip-tomo: Version 1.0. Zenodo; 2023. https://doi.org/10.5281/zenodo.17127842 
 
 
 ---
@@ -40,4 +40,5 @@ Please cite this work if you use it:
 See the included license and disclaimer files
 
 August George, PNNL, 2022
+
 
