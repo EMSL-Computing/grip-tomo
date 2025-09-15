@@ -1,6 +1,7 @@
 # GRIP-Tomo: GRaph Identification of Proteins in Tomograms
 
-[![Tests](https://github.com/EMSL-Computing/grip-tomo/actions/workflows/python_build.yml/badge.svg)](https://github.com/EMSL-Computing/grip-tomo/actions/workflows/python_build.yml)
+[![DOI](https://zenodo.org/badge/542728266.svg)](https://doi.org/10.5281/zenodo.17127841)
+
 [![Documentation Status](https://readthedocs.org/projects/grip-tomo/badge/?version=latest)](https://grip-tomo.readthedocs.io/en/latest/?badge=latest)
 
 
@@ -39,3 +40,4 @@ Please cite this work if you use it:
 See the included license and disclaimer files
 
 August George, PNNL, 2022
+
