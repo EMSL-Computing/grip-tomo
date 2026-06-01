@@ -2,7 +2,7 @@
 
 This document describes the changes introduced in GRIP-Tomo 2.0.0-alpha compared to version 1.0.
 
-**Release Date**: November 18, 2024
+**Release Date**: June 1 2026 (v2), November 18, 2024 (v1)
 
 ### Added
 - **GPU Acceleration**: Optional RAPIDS (cuDF, cuML, cuGraph) support for clustering and feature extraction on NVIDIA GPUs (Linux x86_64 only)
