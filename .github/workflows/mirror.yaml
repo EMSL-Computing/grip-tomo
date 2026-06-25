@@ -4,8 +4,6 @@ on:
     branches: ["**"]
     tags: ["**"]
   delete:
-    branches: ["**"]
-    tags: ["**"]
   workflow_dispatch:
 
 concurrency:

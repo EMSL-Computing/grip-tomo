@@ -6,10 +6,23 @@ build-backend = "setuptools.build_meta"
 name = "griptomo"
 version = "2.0.0"
 description = "GRaph Identification of Proteins in TOMOgrams."
+readme = "README.md"
+license = { text = "BSD-2-Clause" }
 authors = [
     { name = "August George", email = "august.george@pnnl.gov" }
 ]
 requires-python = ">=3.10"
+keywords = ["cryo-ET", "tomography", "graph", "protein classification", "machine learning"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: BSD License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
 dependencies = [
     "numpy==1.26.4",
     "pandas==2.2.2",
@@ -46,6 +59,12 @@ gpu-cu11 = [
     "cuml-cu11==25.2.* ; platform_system == 'Linux' and platform_machine == 'x86_64'",
     "cugraph-cu11==25.2.* ; platform_system == 'Linux' and platform_machine == 'x86_64'",
 ]
+
+[project.urls]
+"Homepage" = "https://github.com/EMSL-Computing/grip-tomo"
+"Repository" = "https://github.com/EMSL-Computing/grip-tomo"
+"Bug Tracker" = "https://github.com/EMSL-Computing/grip-tomo/issues"
+"Changelog" = "https://github.com/EMSL-Computing/grip-tomo/blob/main/docs/CHANGELOG_2.0.0_alpha.md"
 
 [tool.setuptools.packages.find]
 where = ["."]
