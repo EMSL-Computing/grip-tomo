@@ -1,0 +1,1487 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-02-11">
+    <creator>NetworkX 2.7rc1.dev0</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="betweenness" type="double" />
+      <attribute id="1" title="hydrophobicity" type="float" />
+    </attributes>
+    <nodes>
+      <node id="THR1-1" label="THR1-1">
+        <attvalues>
+          <attvalue for="0" value="0.04985445879458121" />
+          <attvalue for="1" value="-0.7" />
+        </attvalues>
+      </node>
+      <node id="GLU2-6" label="GLU2-6">
+        <attvalues>
+          <attvalue for="0" value="0.00837260256718968" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLU3-11" label="GLU3-11">
+        <attvalues>
+          <attvalue for="0" value="0.0044824248100271925" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLN4-16" label="GLN4-16">
+        <attvalues>
+          <attvalue for="0" value="0.011235013420371063" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="ILE5-21" label="ILE5-21">
+        <attvalues>
+          <attvalue for="0" value="0.03357835933333987" />
+          <attvalue for="1" value="4.5" />
+        </attvalues>
+      </node>
+      <node id="ALA6-26" label="ALA6-26">
+        <attvalues>
+          <attvalue for="0" value="0.01992445137143912" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="GLU7-31" label="GLU7-31">
+        <attvalues>
+          <attvalue for="0" value="0.011007780396751803" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="PHE8-36" label="PHE8-36">
+        <attvalues>
+          <attvalue for="0" value="0.03700602835423958" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="LYS9-41" label="LYS9-41">
+        <attvalues>
+          <attvalue for="0" value="0.0627098769720988" />
+          <attvalue for="1" value="-3.9" />
+        </attvalues>
+      </node>
+      <node id="GLU10-46" label="GLU10-46">
+        <attvalues>
+          <attvalue for="0" value="0.02301022258145107" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="ALA11-51" label="ALA11-51">
+        <attvalues>
+          <attvalue for="0" value="0.026176089050565263" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="PHE12-56" label="PHE12-56">
+        <attvalues>
+          <attvalue for="0" value="0.06916272810083905" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="SER13-61" label="SER13-61">
+        <attvalues>
+          <attvalue for="0" value="0.026948823662397373" />
+          <attvalue for="1" value="-0.8" />
+        </attvalues>
+      </node>
+      <node id="LEU14-66" label="LEU14-66">
+        <attvalues>
+          <attvalue for="0" value="0.043733506520086694" />
+          <attvalue for="1" value="3.8" />
+        </attvalues>
+      </node>
+      <node id="PHE15-71" label="PHE15-71">
+        <attvalues>
+          <attvalue for="0" value="0.05020149906450275" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="ASP16-76" label="ASP16-76">
+        <attvalues>
+          <attvalue for="0" value="0.024377856338484015" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="LYS17-81" label="LYS17-81">
+        <attvalues>
+          <attvalue for="0" value="0.003491150482092637" />
+          <attvalue for="1" value="-3.9" />
+        </attvalues>
+      </node>
+      <node id="ASP18-86" label="ASP18-86">
+        <attvalues>
+          <attvalue for="0" value="3.329670695568208e-05" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLY19-91" label="GLY19-91">
+        <attvalues>
+          <attvalue for="0" value="0.0031936393414950686" />
+          <attvalue for="1" value="-0.4" />
+        </attvalues>
+      </node>
+      <node id="ASP20-96" label="ASP20-96">
+        <attvalues>
+          <attvalue for="0" value="0.0014250657517701248" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLY21-101" label="GLY21-101">
+        <attvalues>
+          <attvalue for="0" value="0.014283032972927675" />
+          <attvalue for="1" value="-0.4" />
+        </attvalues>
+      </node>
+      <node id="THR22-106" label="THR22-106">
+        <attvalues>
+          <attvalue for="0" value="0.030413533833174747" />
+          <attvalue for="1" value="-0.7" />
+        </attvalues>
+      </node>
+      <node id="ILE23-111" label="ILE23-111">
+        <attvalues>
+          <attvalue for="0" value="0.030556403799542758" />
+          <attvalue for="1" value="4.5" />
+        </attvalues>
+      </node>
+      <node id="THR24-116" label="THR24-116">
+        <attvalues>
+          <attvalue for="0" value="0.025609166718697295" />
+          <attvalue for="1" value="-0.7" />
+        </attvalues>
+      </node>
+      <node id="THR25-121" label="THR25-121">
+        <attvalues>
+          <attvalue for="0" value="0.023992753163760042" />
+          <attvalue for="1" value="-0.7" />
+        </attvalues>
+      </node>
+      <node id="LYS26-126" label="LYS26-126">
+        <attvalues>
+          <attvalue for="0" value="0.0014293272690408163" />
+          <attvalue for="1" value="-3.9" />
+        </attvalues>
+      </node>
+      <node id="GLU27-131" label="GLU27-131">
+        <attvalues>
+          <attvalue for="0" value="0.01829303705905169" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="LEU28-136" label="LEU28-136">
+        <attvalues>
+          <attvalue for="0" value="0.03175644348115207" />
+          <attvalue for="1" value="3.8" />
+        </attvalues>
+      </node>
+      <node id="GLY29-141" label="GLY29-141">
+        <attvalues>
+          <attvalue for="0" value="0.015939571349321027" />
+          <attvalue for="1" value="-0.4" />
+        </attvalues>
+      </node>
+      <node id="THR30-146" label="THR30-146">
+        <attvalues>
+          <attvalue for="0" value="0.001971043531253422" />
+          <attvalue for="1" value="-0.7" />
+        </attvalues>
+      </node>
+      <node id="VAL31-151" label="VAL31-151">
+        <attvalues>
+          <attvalue for="0" value="0.060766117153485504" />
+          <attvalue for="1" value="4.2" />
+        </attvalues>
+      </node>
+      <node id="MET32-156" label="MET32-156">
+        <attvalues>
+          <attvalue for="0" value="0.014426683140818379" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="ARG33-161" label="ARG33-161">
+        <attvalues>
+          <attvalue for="0" value="0.006912965429145897" />
+          <attvalue for="1" value="-4.5" />
+        </attvalues>
+      </node>
+      <node id="SER34-166" label="SER34-166">
+        <attvalues>
+          <attvalue for="0" value="0.0034561329561609774" />
+          <attvalue for="1" value="-0.8" />
+        </attvalues>
+      </node>
+      <node id="LEU35-171" label="LEU35-171">
+        <attvalues>
+          <attvalue for="0" value="0.0032673801300700926" />
+          <attvalue for="1" value="3.8" />
+        </attvalues>
+      </node>
+      <node id="GLY36-176" label="GLY36-176">
+        <attvalues>
+          <attvalue for="0" value="8.758481612255504e-05" />
+          <attvalue for="1" value="-0.4" />
+        </attvalues>
+      </node>
+      <node id="GLN37-181" label="GLN37-181">
+        <attvalues>
+          <attvalue for="0" value="0.0008216356472100523" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="ASN38-186" label="ASN38-186">
+        <attvalues>
+          <attvalue for="0" value="0.001772078898020417" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="PRO39-191" label="PRO39-191">
+        <attvalues>
+          <attvalue for="0" value="0.011804020952417045" />
+          <attvalue for="1" value="-1.6" />
+        </attvalues>
+      </node>
+      <node id="THR40-196" label="THR40-196">
+        <attvalues>
+          <attvalue for="0" value="0.0023014476224139657" />
+          <attvalue for="1" value="-0.7" />
+        </attvalues>
+      </node>
+      <node id="GLU41-201" label="GLU41-201">
+        <attvalues>
+          <attvalue for="0" value="0.0016149946325005214" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="ALA42-206" label="ALA42-206">
+        <attvalues>
+          <attvalue for="0" value="0.00022347581858064142" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="GLU43-211" label="GLU43-211">
+        <attvalues>
+          <attvalue for="0" value="0.008268099794346704" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="LEU44-216" label="LEU44-216">
+        <attvalues>
+          <attvalue for="0" value="0.04392742251631881" />
+          <attvalue for="1" value="3.8" />
+        </attvalues>
+      </node>
+      <node id="GLN45-221" label="GLN45-221">
+        <attvalues>
+          <attvalue for="0" value="0.008043038958844237" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="ASP46-226" label="ASP46-226">
+        <attvalues>
+          <attvalue for="0" value="0.005486167419515802" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="MET47-231" label="MET47-231">
+        <attvalues>
+          <attvalue for="0" value="0.0315655041990076" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="ILE48-236" label="ILE48-236">
+        <attvalues>
+          <attvalue for="0" value="0.058027358437799104" />
+          <attvalue for="1" value="4.5" />
+        </attvalues>
+      </node>
+      <node id="ASN49-241" label="ASN49-241">
+        <attvalues>
+          <attvalue for="0" value="0.008484419910126726" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLU50-246" label="GLU50-246">
+        <attvalues>
+          <attvalue for="0" value="0.0026245084172548667" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="VAL51-251" label="VAL51-251">
+        <attvalues>
+          <attvalue for="0" value="0.09739833710558732" />
+          <attvalue for="1" value="4.2" />
+        </attvalues>
+      </node>
+      <node id="ASP52-256" label="ASP52-256">
+        <attvalues>
+          <attvalue for="0" value="0.023626645319300775" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="ALA53-261" label="ALA53-261">
+        <attvalues>
+          <attvalue for="0" value="0.009264363078825501" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="ASP54-266" label="ASP54-266">
+        <attvalues>
+          <attvalue for="0" value="3.329670695568208e-05" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLY55-271" label="GLY55-271">
+        <attvalues>
+          <attvalue for="0" value="0.001379475120295204" />
+          <attvalue for="1" value="-0.4" />
+        </attvalues>
+      </node>
+      <node id="ASN56-276" label="ASN56-276">
+        <attvalues>
+          <attvalue for="0" value="0.000683917992869083" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLY57-281" label="GLY57-281">
+        <attvalues>
+          <attvalue for="0" value="0.004007643799577115" />
+          <attvalue for="1" value="-0.4" />
+        </attvalues>
+      </node>
+      <node id="THR58-286" label="THR58-286">
+        <attvalues>
+          <attvalue for="0" value="0.01907762658079047" />
+          <attvalue for="1" value="-0.7" />
+        </attvalues>
+      </node>
+      <node id="ILE59-291" label="ILE59-291">
+        <attvalues>
+          <attvalue for="0" value="0.07986886010197136" />
+          <attvalue for="1" value="4.5" />
+        </attvalues>
+      </node>
+      <node id="ASP60-296" label="ASP60-296">
+        <attvalues>
+          <attvalue for="0" value="0.02282785595195814" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="PHE61-301" label="PHE61-301">
+        <attvalues>
+          <attvalue for="0" value="0.15247383470435727" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="PRO62-306" label="PRO62-306">
+        <attvalues>
+          <attvalue for="0" value="0.033740587262871616" />
+          <attvalue for="1" value="-1.6" />
+        </attvalues>
+      </node>
+      <node id="GLU63-311" label="GLU63-311">
+        <attvalues>
+          <attvalue for="0" value="0.05168221294175011" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="PHE64-316" label="PHE64-316">
+        <attvalues>
+          <attvalue for="0" value="0.05702221444436417" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="LEU65-321" label="LEU65-321">
+        <attvalues>
+          <attvalue for="0" value="0.058898912326145386" />
+          <attvalue for="1" value="3.8" />
+        </attvalues>
+      </node>
+      <node id="THR66-326" label="THR66-326">
+        <attvalues>
+          <attvalue for="0" value="0.025001898600424104" />
+          <attvalue for="1" value="-0.7" />
+        </attvalues>
+      </node>
+      <node id="MET67-331" label="MET67-331">
+        <attvalues>
+          <attvalue for="0" value="0.1073959779893378" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="MET68-336" label="MET68-336">
+        <attvalues>
+          <attvalue for="0" value="0.01951291329643316" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="ALA69-341" label="ALA69-341">
+        <attvalues>
+          <attvalue for="0" value="0.15124324093010233" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="ARG70-346" label="ARG70-346">
+        <attvalues>
+          <attvalue for="0" value="0.03472623032726669" />
+          <attvalue for="1" value="-4.5" />
+        </attvalues>
+      </node>
+      <node id="LYS71-351" label="LYS71-351">
+        <attvalues>
+          <attvalue for="0" value="0.010546006233731461" />
+          <attvalue for="1" value="-3.9" />
+        </attvalues>
+      </node>
+      <node id="MET72-356" label="MET72-356">
+        <attvalues>
+          <attvalue for="0" value="0.005311168702581834" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="LYS73-361" label="LYS73-361">
+        <attvalues>
+          <attvalue for="0" value="0.003399240569294279" />
+          <attvalue for="1" value="-3.9" />
+        </attvalues>
+      </node>
+      <node id="ASP74-366" label="ASP74-366">
+        <attvalues>
+          <attvalue for="0" value="0.0126223121308973" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="THR75-371" label="THR75-371">
+        <attvalues>
+          <attvalue for="0" value="0.0009380394221378037" />
+          <attvalue for="1" value="-0.7" />
+        </attvalues>
+      </node>
+      <node id="ASP76-376" label="ASP76-376">
+        <attvalues>
+          <attvalue for="0" value="0.0002738945592738894" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="SER77-381" label="SER77-381">
+        <attvalues>
+          <attvalue for="0" value="0.002222159258887205" />
+          <attvalue for="1" value="-0.8" />
+        </attvalues>
+      </node>
+      <node id="GLU78-386" label="GLU78-386">
+        <attvalues>
+          <attvalue for="0" value="0.0011393715539597057" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLU79-391" label="GLU79-391">
+        <attvalues>
+          <attvalue for="0" value="0.010295455684475582" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLU80-396" label="GLU80-396">
+        <attvalues>
+          <attvalue for="0" value="0.06746022771619554" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="ILE81-401" label="ILE81-401">
+        <attvalues>
+          <attvalue for="0" value="0.041119682698739606" />
+          <attvalue for="1" value="4.5" />
+        </attvalues>
+      </node>
+      <node id="ARG82-406" label="ARG82-406">
+        <attvalues>
+          <attvalue for="0" value="0.046112021925960894" />
+          <attvalue for="1" value="-4.5" />
+        </attvalues>
+      </node>
+      <node id="GLU83-411" label="GLU83-411">
+        <attvalues>
+          <attvalue for="0" value="0.053520607341145714" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="ALA84-416" label="ALA84-416">
+        <attvalues>
+          <attvalue for="0" value="0.08035995082163291" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="PHE85-421" label="PHE85-421">
+        <attvalues>
+          <attvalue for="0" value="0.07024431313048723" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="ARG86-426" label="ARG86-426">
+        <attvalues>
+          <attvalue for="0" value="0.01574418135403995" />
+          <attvalue for="1" value="-4.5" />
+        </attvalues>
+      </node>
+      <node id="VAL87-431" label="VAL87-431">
+        <attvalues>
+          <attvalue for="0" value="0.027781616264941807" />
+          <attvalue for="1" value="4.2" />
+        </attvalues>
+      </node>
+      <node id="PHE88-436" label="PHE88-436">
+        <attvalues>
+          <attvalue for="0" value="0.06930634438140036" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="ASP89-441" label="ASP89-441">
+        <attvalues>
+          <attvalue for="0" value="0.02800825352310167" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="LYS90-446" label="LYS90-446">
+        <attvalues>
+          <attvalue for="0" value="0.03158008184312974" />
+          <attvalue for="1" value="-3.9" />
+        </attvalues>
+      </node>
+      <node id="ASP91-451" label="ASP91-451">
+        <attvalues>
+          <attvalue for="0" value="0.0006373968458584393" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLY92-456" label="GLY92-456">
+        <attvalues>
+          <attvalue for="0" value="0.004190435252360329" />
+          <attvalue for="1" value="-0.4" />
+        </attvalues>
+      </node>
+      <node id="ASN93-461" label="ASN93-461">
+        <attvalues>
+          <attvalue for="0" value="0.00036655102880502147" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLY94-466" label="GLY94-466">
+        <attvalues>
+          <attvalue for="0" value="0.001663028965683444" />
+          <attvalue for="1" value="-0.4" />
+        </attvalues>
+      </node>
+      <node id="TYR95-471" label="TYR95-471">
+        <attvalues>
+          <attvalue for="0" value="0.007961901903959559" />
+          <attvalue for="1" value="-1.3" />
+        </attvalues>
+      </node>
+      <node id="ILE96-476" label="ILE96-476">
+        <attvalues>
+          <attvalue for="0" value="0.05229239090961521" />
+          <attvalue for="1" value="4.5" />
+        </attvalues>
+      </node>
+      <node id="SER97-481" label="SER97-481">
+        <attvalues>
+          <attvalue for="0" value="0.016649848659904744" />
+          <attvalue for="1" value="-0.8" />
+        </attvalues>
+      </node>
+      <node id="ALA98-486" label="ALA98-486">
+        <attvalues>
+          <attvalue for="0" value="0.03339674481891176" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="ALA99-491" label="ALA99-491">
+        <attvalues>
+          <attvalue for="0" value="0.0009781659317773938" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="GLU100-496" label="GLU100-496">
+        <attvalues>
+          <attvalue for="0" value="0.036608320810717576" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="LEU101-501" label="LEU101-501">
+        <attvalues>
+          <attvalue for="0" value="0.06645936703722324" />
+          <attvalue for="1" value="3.8" />
+        </attvalues>
+      </node>
+      <node id="ARG102-506" label="ARG102-506">
+        <attvalues>
+          <attvalue for="0" value="0.04581940917851771" />
+          <attvalue for="1" value="-4.5" />
+        </attvalues>
+      </node>
+      <node id="HIS103-511" label="HIS103-511">
+        <attvalues>
+          <attvalue for="0" value="0.007954986311523304" />
+          <attvalue for="1" value="-3.2" />
+        </attvalues>
+      </node>
+      <node id="VAL104-516" label="VAL104-516">
+        <attvalues>
+          <attvalue for="0" value="0.10368052166402633" />
+          <attvalue for="1" value="4.2" />
+        </attvalues>
+      </node>
+      <node id="MET105-521" label="MET105-521">
+        <attvalues>
+          <attvalue for="0" value="0.06061149968465521" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="THR106-526" label="THR106-526">
+        <attvalues>
+          <attvalue for="0" value="0.034830101389770496" />
+          <attvalue for="1" value="-0.7" />
+        </attvalues>
+      </node>
+      <node id="ASN107-531" label="ASN107-531">
+        <attvalues>
+          <attvalue for="0" value="0.021462780987398008" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="LEU108-536" label="LEU108-536">
+        <attvalues>
+          <attvalue for="0" value="0.22191870000418276" />
+          <attvalue for="1" value="3.8" />
+        </attvalues>
+      </node>
+      <node id="GLY109-541" label="GLY109-541">
+        <attvalues>
+          <attvalue for="0" value="0.0028384939390859185" />
+          <attvalue for="1" value="-0.4" />
+        </attvalues>
+      </node>
+      <node id="GLU110-546" label="GLU110-546">
+        <attvalues>
+          <attvalue for="0" value="0.01926407071601752" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="LYS111-551" label="LYS111-551">
+        <attvalues>
+          <attvalue for="0" value="0.005265070780124702" />
+          <attvalue for="1" value="-3.9" />
+        </attvalues>
+      </node>
+      <node id="LEU112-556" label="LEU112-556">
+        <attvalues>
+          <attvalue for="0" value="0.04746097275576678" />
+          <attvalue for="1" value="3.8" />
+        </attvalues>
+      </node>
+      <node id="THR113-561" label="THR113-561">
+        <attvalues>
+          <attvalue for="0" value="0.0008584398789590235" />
+          <attvalue for="1" value="-0.7" />
+        </attvalues>
+      </node>
+      <node id="ASP114-566" label="ASP114-566">
+        <attvalues>
+          <attvalue for="0" value="0.0029688887754779473" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLU115-571" label="GLU115-571">
+        <attvalues>
+          <attvalue for="0" value="0.003766444707665928" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLU116-576" label="GLU116-576">
+        <attvalues>
+          <attvalue for="0" value="0.008241194642243103" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="VAL117-581" label="VAL117-581">
+        <attvalues>
+          <attvalue for="0" value="0.049868327149221695" />
+          <attvalue for="1" value="4.2" />
+        </attvalues>
+      </node>
+      <node id="ASP118-586" label="ASP118-586">
+        <attvalues>
+          <attvalue for="0" value="0.0073678494134135795" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLU119-591" label="GLU119-591">
+        <attvalues>
+          <attvalue for="0" value="0.006149224535900492" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="MET120-596" label="MET120-596">
+        <attvalues>
+          <attvalue for="0" value="0.010890076965212955" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="ILE121-601" label="ILE121-601">
+        <attvalues>
+          <attvalue for="0" value="0.028257632525651288" />
+          <attvalue for="1" value="4.5" />
+        </attvalues>
+      </node>
+      <node id="ARG122-606" label="ARG122-606">
+        <attvalues>
+          <attvalue for="0" value="0.005125537334260383" />
+          <attvalue for="1" value="-4.5" />
+        </attvalues>
+      </node>
+      <node id="GLU123-611" label="GLU123-611">
+        <attvalues>
+          <attvalue for="0" value="0.0016768523102107045" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="ALA124-616" label="ALA124-616">
+        <attvalues>
+          <attvalue for="0" value="0.024437208807745376" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+      <node id="ASP125-621" label="ASP125-621">
+        <attvalues>
+          <attvalue for="0" value="0.014589375782119851" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="ILE126-626" label="ILE126-626">
+        <attvalues>
+          <attvalue for="0" value="0.0036516998278589923" />
+          <attvalue for="1" value="4.5" />
+        </attvalues>
+      </node>
+      <node id="ASP127-631" label="ASP127-631">
+        <attvalues>
+          <attvalue for="0" value="3.329670695568208e-05" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLY128-636" label="GLY128-636">
+        <attvalues>
+          <attvalue for="0" value="0.0028052947934298837" />
+          <attvalue for="1" value="-0.4" />
+        </attvalues>
+      </node>
+      <node id="ASP129-641" label="ASP129-641">
+        <attvalues>
+          <attvalue for="0" value="0.001796816153509689" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLY130-646" label="GLY130-646">
+        <attvalues>
+          <attvalue for="0" value="0.0010871833940216357" />
+          <attvalue for="1" value="-0.4" />
+        </attvalues>
+      </node>
+      <node id="GLN131-651" label="GLN131-651">
+        <attvalues>
+          <attvalue for="0" value="0.03737286345830034" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="VAL132-656" label="VAL132-656">
+        <attvalues>
+          <attvalue for="0" value="0.029367016840667285" />
+          <attvalue for="1" value="4.2" />
+        </attvalues>
+      </node>
+      <node id="ASN133-661" label="ASN133-661">
+        <attvalues>
+          <attvalue for="0" value="0.007345985561081995" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="TYR134-666" label="TYR134-666">
+        <attvalues>
+          <attvalue for="0" value="0.0316725898374898" />
+          <attvalue for="1" value="-1.3" />
+        </attvalues>
+      </node>
+      <node id="GLU135-671" label="GLU135-671">
+        <attvalues>
+          <attvalue for="0" value="0.0003570101411728549" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="GLU136-676" label="GLU136-676">
+        <attvalues>
+          <attvalue for="0" value="0.019628354567383446" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="PHE137-681" label="PHE137-681">
+        <attvalues>
+          <attvalue for="0" value="0.026820293246776573" />
+          <attvalue for="1" value="2.8" />
+        </attvalues>
+      </node>
+      <node id="VAL138-686" label="VAL138-686">
+        <attvalues>
+          <attvalue for="0" value="0.04940674301956386" />
+          <attvalue for="1" value="4.2" />
+        </attvalues>
+      </node>
+      <node id="GLN139-691" label="GLN139-691">
+        <attvalues>
+          <attvalue for="0" value="0.004643715165197547" />
+          <attvalue for="1" value="-3.5" />
+        </attvalues>
+      </node>
+      <node id="MET140-696" label="MET140-696">
+        <attvalues>
+          <attvalue for="0" value="0.004190694783685839" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="MET141-701" label="MET141-701">
+        <attvalues>
+          <attvalue for="0" value="0.009250409878142327" />
+          <attvalue for="1" value="1.9" />
+        </attvalues>
+      </node>
+      <node id="THR142-706" label="THR142-706">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="-0.7" />
+        </attvalues>
+      </node>
+      <node id="ALA143-711" label="ALA143-711">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="1.8" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="THR1-1" target="GLU2-6" id="0" weight="3.7230414192546952" />
+      <edge source="THR1-1" target="GLU3-11" id="1" weight="5.422818124334753" />
+      <edge source="THR1-1" target="GLN4-16" id="2" weight="5.123160029921875" />
+      <edge source="THR1-1" target="ILE5-21" id="3" weight="6.337546797660672" />
+      <edge source="THR1-1" target="VAL87-431" id="4" weight="5.690350355557307" />
+      <edge source="THR1-1" target="LYS90-446" id="5" weight="6.4515749103331075" />
+      <edge source="GLU2-6" target="GLU3-11" id="6" weight="3.7947870195741538" />
+      <edge source="GLU2-6" target="GLN4-16" id="7" weight="5.365484381266641" />
+      <edge source="GLU2-6" target="ILE5-21" id="8" weight="5.2025718470690006" />
+      <edge source="GLU2-6" target="ALA6-26" id="9" weight="6.135608828454004" />
+      <edge source="GLU2-6" target="VAL104-516" id="10" weight="7.926791683620214" />
+      <edge source="GLU2-6" target="ASN107-531" id="11" weight="7.757154518995284" />
+      <edge source="GLU3-11" target="GLN4-16" id="12" weight="3.7273060437282095" />
+      <edge source="GLU3-11" target="ILE5-21" id="13" weight="5.448296270753814" />
+      <edge source="GLU3-11" target="ALA6-26" id="14" weight="4.939653770811326" />
+      <edge source="GLU3-11" target="GLU7-31" id="15" weight="6.155157001323337" />
+      <edge source="GLN4-16" target="ILE5-21" id="16" weight="3.8039576411855474" />
+      <edge source="GLN4-16" target="ALA6-26" id="17" weight="5.318006100323109" />
+      <edge source="GLN4-16" target="GLU7-31" id="18" weight="5.046296827575523" />
+      <edge source="GLN4-16" target="PHE8-36" id="19" weight="6.322318498008613" />
+      <edge source="ILE5-21" target="ALA6-26" id="20" weight="3.758605665294204" />
+      <edge source="ILE5-21" target="GLU7-31" id="21" weight="5.289712483364706" />
+      <edge source="ILE5-21" target="PHE8-36" id="22" weight="5.03110540211011" />
+      <edge source="ILE5-21" target="LYS9-41" id="23" weight="6.165221763202933" />
+      <edge source="ILE5-21" target="ASN107-531" id="24" weight="7.060460147720125" />
+      <edge source="ILE5-21" target="LEU108-536" id="25" weight="7.332160718285462" />
+      <edge source="ALA6-26" target="GLU7-31" id="26" weight="3.76908355148641" />
+      <edge source="ALA6-26" target="PHE8-36" id="27" weight="5.417578697702769" />
+      <edge source="ALA6-26" target="LYS9-41" id="28" weight="4.973549439838713" />
+      <edge source="ALA6-26" target="GLU10-46" id="29" weight="6.302196979719315" />
+      <edge source="ALA6-26" target="ASN107-531" id="30" weight="7.4078050224812735" />
+      <edge source="GLU7-31" target="PHE8-36" id="31" weight="3.711216708686501" />
+      <edge source="GLU7-31" target="LYS9-41" id="32" weight="5.207891348269707" />
+      <edge source="GLU7-31" target="GLU10-46" id="33" weight="5.060161597873555" />
+      <edge source="GLU7-31" target="ALA11-51" id="34" weight="6.338532188074494" />
+      <edge source="PHE8-36" target="LYS9-41" id="35" weight="3.785820763651308" />
+      <edge source="PHE8-36" target="GLU10-46" id="36" weight="5.400894791006685" />
+      <edge source="PHE8-36" target="ALA11-51" id="37" weight="5.074081596720261" />
+      <edge source="PHE8-36" target="PHE12-56" id="38" weight="6.099399379470478" />
+      <edge source="PHE8-36" target="LEU65-321" id="39" weight="7.3759751270665435" />
+      <edge source="LYS9-41" target="GLU10-46" id="40" weight="3.722397949493623" />
+      <edge source="LYS9-41" target="ALA11-51" id="41" weight="5.24237726846936" />
+      <edge source="LYS9-41" target="PHE12-56" id="42" weight="4.907786787997005" />
+      <edge source="LYS9-41" target="SER13-61" id="43" weight="6.150841215010364" />
+      <edge source="LYS9-41" target="LEU108-536" id="44" weight="7.385393871274143" />
+      <edge source="GLU10-46" target="ALA11-51" id="45" weight="3.713333117633657" />
+      <edge source="GLU10-46" target="PHE12-56" id="46" weight="5.433725183627395" />
+      <edge source="GLU10-46" target="SER13-61" id="47" weight="5.168231745378162" />
+      <edge source="GLU10-46" target="LEU14-66" id="48" weight="6.613927566770793" />
+      <edge source="ALA11-51" target="PHE12-56" id="49" weight="3.7585701702228667" />
+      <edge source="ALA11-51" target="SER13-61" id="50" weight="5.251922854874659" />
+      <edge source="ALA11-51" target="LEU14-66" id="51" weight="5.198965885780516" />
+      <edge source="ALA11-51" target="PHE15-71" id="52" weight="7.004283354355931" />
+      <edge source="PHE12-56" target="SER13-61" id="53" weight="3.765510124866831" />
+      <edge source="PHE12-56" target="LEU14-66" id="54" weight="5.43382018811751" />
+      <edge source="PHE12-56" target="PHE15-71" id="55" weight="5.495522115301195" />
+      <edge source="PHE12-56" target="ASP16-76" id="56" weight="6.161266577237607" />
+      <edge source="PHE12-56" target="PHE61-301" id="57" weight="7.166336834085325" />
+      <edge source="PHE12-56" target="PHE64-316" id="58" weight="7.555002578662427" />
+      <edge source="SER13-61" target="LEU14-66" id="59" weight="3.7780497554980608" />
+      <edge source="SER13-61" target="PHE15-71" id="60" weight="5.227924694552144" />
+      <edge source="SER13-61" target="ASP16-76" id="61" weight="4.7773029424361715" />
+      <edge source="SER13-61" target="LYS17-81" id="62" weight="6.66654591185702" />
+      <edge source="SER13-61" target="GLY19-91" id="63" weight="6.996049066896168" />
+      <edge source="LEU14-66" target="PHE15-71" id="64" weight="3.7277284314231633" />
+      <edge source="LEU14-66" target="ASP16-76" id="65" weight="5.691152876219524" />
+      <edge source="LEU14-66" target="LYS17-81" id="66" weight="6.37646849703901" />
+      <edge source="LEU14-66" target="VAL31-151" id="67" weight="7.467285622685903" />
+      <edge source="PHE15-71" target="ASP16-76" id="68" weight="3.7743159916310947" />
+      <edge source="PHE15-71" target="LYS17-81" id="69" weight="5.572702766236446" />
+      <edge source="PHE15-71" target="ILE23-111" id="70" weight="6.279858483479167" />
+      <edge source="PHE15-71" target="GLU27-131" id="71" weight="5.931271096090451" />
+      <edge source="PHE15-71" target="LEU28-136" id="72" weight="6.022460698100942" />
+      <edge source="PHE15-71" target="VAL31-151" id="73" weight="6.172499859144551" />
+      <edge source="ASP16-76" target="LYS17-81" id="74" weight="3.8239751332645153" />
+      <edge source="ASP16-76" target="ASP18-86" id="75" weight="5.715265760699596" />
+      <edge source="ASP16-76" target="GLY19-91" id="76" weight="5.336828022914125" />
+      <edge source="ASP16-76" target="ASP20-96" id="77" weight="7.04390519714465" />
+      <edge source="ASP16-76" target="GLY21-101" id="78" weight="6.6406820865102025" />
+      <edge source="ASP16-76" target="THR22-106" id="79" weight="6.179981412826393" />
+      <edge source="ASP16-76" target="ILE23-111" id="80" weight="5.121337845901715" />
+      <edge source="ASP16-76" target="THR24-116" id="81" weight="7.848848338296976" />
+      <edge source="ASP16-76" target="GLU27-131" id="82" weight="6.4590493521163435" />
+      <edge source="LYS17-81" target="ASP18-86" id="83" weight="3.7944260539893637" />
+      <edge source="LYS17-81" target="GLY19-91" id="84" weight="5.609803148743056" />
+      <edge source="LYS17-81" target="GLU27-131" id="85" weight="6.43447119437215" />
+      <edge source="ASP18-86" target="GLY19-91" id="86" weight="3.753527144322523" />
+      <edge source="ASP18-86" target="ASP20-96" id="87" weight="5.603608621126855" />
+      <edge source="GLY19-91" target="ASP20-96" id="88" weight="3.7871301222880196" />
+      <edge source="GLY19-91" target="GLY21-101" id="89" weight="5.426782927879139" />
+      <edge source="GLY19-91" target="THR22-106" id="90" weight="7.535945850943291" />
+      <edge source="ASP20-96" target="GLY21-101" id="91" weight="3.744066080190962" />
+      <edge source="ASP20-96" target="THR22-106" id="92" weight="5.729739575845543" />
+      <edge source="GLY21-101" target="THR22-106" id="93" weight="3.8472810520411005" />
+      <edge source="GLY21-101" target="ILE23-111" id="94" weight="7.000339632122135" />
+      <edge source="GLY21-101" target="ASP60-296" id="95" weight="6.305438108240306" />
+      <edge source="GLY21-101" target="PHE61-301" id="96" weight="6.854921396992842" />
+      <edge source="THR22-106" target="ILE23-111" id="97" weight="3.7443614029807235" />
+      <edge source="THR22-106" target="THR24-116" id="98" weight="6.364038050305392" />
+      <edge source="THR22-106" target="THR58-286" id="99" weight="6.452616221192315" />
+      <edge source="THR22-106" target="ILE59-291" id="100" weight="5.516479360444562" />
+      <edge source="THR22-106" target="ASP60-296" id="101" weight="4.38730435112923" />
+      <edge source="THR22-106" target="PHE61-301" id="102" weight="6.700905047086923" />
+      <edge source="ILE23-111" target="THR24-116" id="103" weight="3.7850487147093723" />
+      <edge source="ILE23-111" target="THR25-121" id="104" weight="6.8447216634249335" />
+      <edge source="ILE23-111" target="GLU27-131" id="105" weight="6.017734358942196" />
+      <edge source="ILE23-111" target="LEU28-136" id="106" weight="6.693234359162677" />
+      <edge source="ILE23-111" target="THR58-286" id="107" weight="5.842636608378932" />
+      <edge source="ILE23-111" target="ILE59-291" id="108" weight="5.0034771690485025" />
+      <edge source="ILE23-111" target="ASP60-296" id="109" weight="6.123837880909596" />
+      <edge source="THR24-116" target="THR25-121" id="110" weight="3.76723374261583" />
+      <edge source="THR24-116" target="LYS26-126" id="111" weight="5.247400882800118" />
+      <edge source="THR24-116" target="GLU27-131" id="112" weight="5.1729326250699845" />
+      <edge source="THR24-116" target="LEU28-136" id="113" weight="6.222591912139446" />
+      <edge source="THR24-116" target="GLY57-281" id="114" weight="7.610880783676267" />
+      <edge source="THR24-116" target="THR58-286" id="115" weight="4.984282143802676" />
+      <edge source="THR24-116" target="ILE59-291" id="116" weight="6.507632843884677" />
+      <edge source="THR25-121" target="LYS26-126" id="117" weight="3.710364162936509" />
+      <edge source="THR25-121" target="GLU27-131" id="118" weight="5.477046491557699" />
+      <edge source="THR25-121" target="LEU28-136" id="119" weight="5.079341227049509" />
+      <edge source="THR25-121" target="GLY29-141" id="120" weight="6.01614311042052" />
+      <edge source="THR25-121" target="GLU41-201" id="121" weight="7.862526390930772" />
+      <edge source="THR25-121" target="LEU44-216" id="122" weight="5.874045766840568" />
+      <edge source="THR25-121" target="GLN45-221" id="123" weight="6.323349617772303" />
+      <edge source="THR25-121" target="ILE48-236" id="124" weight="6.904651744582388" />
+      <edge source="THR25-121" target="THR58-286" id="125" weight="7.019473369068857" />
+      <edge source="LYS26-126" target="GLU27-131" id="126" weight="3.8261047669769352" />
+      <edge source="LYS26-126" target="LEU28-136" id="127" weight="5.454809885879429" />
+      <edge source="LYS26-126" target="GLY29-141" id="128" weight="5.074858167199423" />
+      <edge source="LYS26-126" target="THR30-146" id="129" weight="6.297562964759398" />
+      <edge source="GLU27-131" target="LEU28-136" id="130" weight="3.8095387948806403" />
+      <edge source="GLU27-131" target="GLY29-141" id="131" weight="5.3756114320946615" />
+      <edge source="GLU27-131" target="THR30-146" id="132" weight="5.141119085178871" />
+      <edge source="GLU27-131" target="VAL31-151" id="133" weight="6.424401791410669" />
+      <edge source="LEU28-136" target="GLY29-141" id="134" weight="3.777994982240729" />
+      <edge source="LEU28-136" target="THR30-146" id="135" weight="5.479489897444533" />
+      <edge source="LEU28-136" target="VAL31-151" id="136" weight="5.314832182372096" />
+      <edge source="LEU28-136" target="MET32-156" id="137" weight="6.168928283881588" />
+      <edge source="LEU28-136" target="LEU44-216" id="138" weight="7.160360433802197" />
+      <edge source="GLY29-141" target="THR30-146" id="139" weight="3.818646537956771" />
+      <edge source="GLY29-141" target="VAL31-151" id="140" weight="5.50796488877513" />
+      <edge source="GLY29-141" target="MET32-156" id="141" weight="5.0916109767159154" />
+      <edge source="GLY29-141" target="ARG33-161" id="142" weight="6.060279915177756" />
+      <edge source="GLY29-141" target="ASN38-186" id="143" weight="7.8098510248028985" />
+      <edge source="GLY29-141" target="PRO39-191" id="144" weight="6.850717470327374" />
+      <edge source="GLY29-141" target="LEU44-216" id="145" weight="6.54152226504457" />
+      <edge source="THR30-146" target="VAL31-151" id="146" weight="3.8130123478670583" />
+      <edge source="THR30-146" target="MET32-156" id="147" weight="5.44167081241035" />
+      <edge source="THR30-146" target="ARG33-161" id="148" weight="5.144120125621054" />
+      <edge source="THR30-146" target="SER34-166" id="149" weight="6.197040240166072" />
+      <edge source="VAL31-151" target="MET32-156" id="150" weight="3.731060432783732" />
+      <edge source="VAL31-151" target="ARG33-161" id="151" weight="5.408725080279861" />
+      <edge source="VAL31-151" target="SER34-166" id="152" weight="4.976989955319445" />
+      <edge source="VAL31-151" target="LEU35-171" id="153" weight="6.474174330078406" />
+      <edge source="MET32-156" target="ARG33-161" id="154" weight="3.775284006725557" />
+      <edge source="MET32-156" target="SER34-166" id="155" weight="5.278863558578125" />
+      <edge source="MET32-156" target="LEU35-171" id="156" weight="5.126677756748152" />
+      <edge source="MET32-156" target="GLY36-176" id="157" weight="6.58737050291598" />
+      <edge source="MET32-156" target="GLN37-181" id="158" weight="5.34712777209112" />
+      <edge source="MET32-156" target="ASN38-186" id="159" weight="6.917140029535893" />
+      <edge source="MET32-156" target="PRO39-191" id="160" weight="7.478376197555253" />
+      <edge source="ARG33-161" target="SER34-166" id="161" weight="3.8040596508776625" />
+      <edge source="ARG33-161" target="LEU35-171" id="162" weight="5.251238084044072" />
+      <edge source="ARG33-161" target="GLY36-176" id="163" weight="5.081655242805574" />
+      <edge source="ARG33-161" target="GLN37-181" id="164" weight="4.830740965240056" />
+      <edge source="ARG33-161" target="ASN38-186" id="165" weight="5.518518078954713" />
+      <edge source="ARG33-161" target="PRO39-191" id="166" weight="7.634402602231738" />
+      <edge source="SER34-166" target="LEU35-171" id="167" weight="3.7514290579825027" />
+      <edge source="SER34-166" target="GLY36-176" id="168" weight="5.484365224523084" />
+      <edge source="SER34-166" target="GLN37-181" id="169" weight="7.259464331173856" />
+      <edge source="LEU35-171" target="GLY36-176" id="170" weight="3.762589605741547" />
+      <edge source="LEU35-171" target="GLN37-181" id="171" weight="5.770765912236793" />
+      <edge source="GLY36-176" target="GLN37-181" id="172" weight="3.7811814644245896" />
+      <edge source="GLY36-176" target="ASN38-186" id="173" weight="6.737150631924153" />
+      <edge source="GLN37-181" target="ASN38-186" id="174" weight="3.7924404907249434" />
+      <edge source="GLN37-181" target="PRO39-191" id="175" weight="6.171027976595378" />
+      <edge source="ASN38-186" target="PRO39-191" id="176" weight="3.7260713514121213" />
+      <edge source="ASN38-186" target="THR40-196" id="177" weight="6.573482359936569" />
+      <edge source="PRO39-191" target="THR40-196" id="178" weight="3.7839430956564204" />
+      <edge source="PRO39-191" target="GLU41-201" id="179" weight="6.587852895701296" />
+      <edge source="PRO39-191" target="GLU43-211" id="180" weight="5.87961631105522" />
+      <edge source="PRO39-191" target="LEU44-216" id="181" weight="6.364618914213148" />
+      <edge source="THR40-196" target="GLU41-201" id="182" weight="3.7248814989945265" />
+      <edge source="THR40-196" target="ALA42-206" id="183" weight="5.3653850414691435" />
+      <edge source="THR40-196" target="GLU43-211" id="184" weight="5.119342930418274" />
+      <edge source="THR40-196" target="LEU44-216" id="185" weight="6.291680845858733" />
+      <edge source="GLU41-201" target="ALA42-206" id="186" weight="3.6897249146920914" />
+      <edge source="GLU41-201" target="GLU43-211" id="187" weight="5.2809225328688" />
+      <edge source="GLU41-201" target="LEU44-216" id="188" weight="5.098949632203443" />
+      <edge source="GLU41-201" target="GLN45-221" id="189" weight="6.169163595595541" />
+      <edge source="ALA42-206" target="GLU43-211" id="190" weight="3.762320707674095" />
+      <edge source="ALA42-206" target="LEU44-216" id="191" weight="5.480814773716249" />
+      <edge source="ALA42-206" target="GLN45-221" id="192" weight="5.118708774279407" />
+      <edge source="ALA42-206" target="ASP46-226" id="193" weight="6.2765802334140135" />
+      <edge source="GLU43-211" target="LEU44-216" id="194" weight="3.768447175261292" />
+      <edge source="GLU43-211" target="GLN45-221" id="195" weight="5.3752220281939955" />
+      <edge source="GLU43-211" target="ASP46-226" id="196" weight="5.159382123699186" />
+      <edge source="GLU43-211" target="MET47-231" id="197" weight="6.288033662917682" />
+      <edge source="LEU44-216" target="GLN45-221" id="198" weight="3.8363874132965767" />
+      <edge source="LEU44-216" target="ASP46-226" id="199" weight="5.491663722487801" />
+      <edge source="LEU44-216" target="MET47-231" id="200" weight="5.078843278686938" />
+      <edge source="LEU44-216" target="ILE48-236" id="201" weight="6.360964605545049" />
+      <edge source="GLN45-221" target="ASP46-226" id="202" weight="3.798018146457605" />
+      <edge source="GLN45-221" target="MET47-231" id="203" weight="5.34744126707563" />
+      <edge source="GLN45-221" target="ILE48-236" id="204" weight="5.156368344007713" />
+      <edge source="GLN45-221" target="ASN49-241" id="205" weight="5.986905059266611" />
+      <edge source="ASP46-226" target="MET47-231" id="206" weight="3.810935432276516" />
+      <edge source="ASP46-226" target="ILE48-236" id="207" weight="5.433316761012516" />
+      <edge source="ASP46-226" target="ASN49-241" id="208" weight="4.8743307390284025" />
+      <edge source="ASP46-226" target="GLU50-246" id="209" weight="6.292652242966866" />
+      <edge source="MET47-231" target="ILE48-236" id="210" weight="3.7421027219329814" />
+      <edge source="MET47-231" target="ASN49-241" id="211" weight="5.336782298201375" />
+      <edge source="MET47-231" target="GLU50-246" id="212" weight="5.5246073338594215" />
+      <edge source="MET47-231" target="VAL51-251" id="213" weight="7.128828619538351" />
+      <edge source="ILE48-236" target="ASN49-241" id="214" weight="3.7025191748187174" />
+      <edge source="ILE48-236" target="GLU50-246" id="215" weight="5.4936373427121765" />
+      <edge source="ILE48-236" target="VAL51-251" id="216" weight="5.533611593161197" />
+      <edge source="ILE48-236" target="ASP52-256" id="217" weight="5.800957352318825" />
+      <edge source="ILE48-236" target="GLY57-281" id="218" weight="7.257204903343748" />
+      <edge source="ILE48-236" target="THR58-286" id="219" weight="6.647061661586988" />
+      <edge source="ILE48-236" target="ILE59-291" id="220" weight="6.652018381618905" />
+      <edge source="ASN49-241" target="GLU50-246" id="221" weight="3.707736417403752" />
+      <edge source="ASN49-241" target="VAL51-251" id="222" weight="5.313331502725544" />
+      <edge source="ASN49-241" target="ASP52-256" id="223" weight="4.963302037523267" />
+      <edge source="ASN49-241" target="ALA53-261" id="224" weight="7.909481585097833" />
+      <edge source="ASN49-241" target="GLY55-271" id="225" weight="7.503301976875905" />
+      <edge source="ASN49-241" target="GLY57-281" id="226" weight="7.236096840050273" />
+      <edge source="GLU50-246" target="VAL51-251" id="227" weight="3.8083096390899405" />
+      <edge source="GLU50-246" target="ASP52-256" id="228" weight="5.925718274956234" />
+      <edge source="GLU50-246" target="ALA53-261" id="229" weight="7.859871712502964" />
+      <edge source="VAL51-251" target="ASP52-256" id="230" weight="3.8360879568177446" />
+      <edge source="VAL51-251" target="ALA53-261" id="231" weight="5.782132448107836" />
+      <edge source="VAL51-251" target="ILE59-291" id="232" weight="7.059482304980853" />
+      <edge source="VAL51-251" target="GLU63-311" id="233" weight="6.287303208143906" />
+      <edge source="VAL51-251" target="PHE64-316" id="234" weight="7.260679391163609" />
+      <edge source="VAL51-251" target="MET67-331" id="235" weight="6.572760830396553" />
+      <edge source="ASP52-256" target="ALA53-261" id="236" weight="3.8180200955557635" />
+      <edge source="ASP52-256" target="ASP54-266" id="237" weight="5.664396916476067" />
+      <edge source="ASP52-256" target="GLY55-271" id="238" weight="5.299269873485858" />
+      <edge source="ASP52-256" target="ASN56-276" id="239" weight="7.069953718128982" />
+      <edge source="ASP52-256" target="GLY57-281" id="240" weight="6.568090540414419" />
+      <edge source="ASP52-256" target="THR58-286" id="241" weight="6.406666173686563" />
+      <edge source="ASP52-256" target="ILE59-291" id="242" weight="5.70040766107662" />
+      <edge source="ASP52-256" target="GLU63-311" id="243" weight="6.583042822171132" />
+      <edge source="ALA53-261" target="ASP54-266" id="244" weight="3.7350802434778214" />
+      <edge source="ALA53-261" target="GLY55-271" id="245" weight="5.5603854786184534" />
+      <edge source="ALA53-261" target="GLU63-311" id="246" weight="6.78156823491291" />
+      <edge source="ASP54-266" target="GLY55-271" id="247" weight="3.7935676816550448" />
+      <edge source="ASP54-266" target="ASN56-276" id="248" weight="5.7205123979854955" />
+      <edge source="GLY55-271" target="ASN56-276" id="249" weight="3.7831556361475185" />
+      <edge source="GLY55-271" target="GLY57-281" id="250" weight="5.420457446822716" />
+      <edge source="GLY55-271" target="THR58-286" id="251" weight="7.64663963149888" />
+      <edge source="ASN56-276" target="GLY57-281" id="252" weight="3.750697949195033" />
+      <edge source="ASN56-276" target="THR58-286" id="253" weight="5.782475242616566" />
+      <edge source="GLY57-281" target="THR58-286" id="254" weight="3.7946213714138355" />
+      <edge source="GLY57-281" target="ILE59-291" id="255" weight="7.078374101820536" />
+      <edge source="THR58-286" target="ILE59-291" id="256" weight="3.811580581464259" />
+      <edge source="THR58-286" target="ASP60-296" id="257" weight="6.529257587756708" />
+      <edge source="ILE59-291" target="ASP60-296" id="258" weight="3.7269942234734414" />
+      <edge source="ILE59-291" target="PHE61-301" id="259" weight="6.72695843602256" />
+      <edge source="ILE59-291" target="GLU63-311" id="260" weight="5.905243681589456" />
+      <edge source="ILE59-291" target="PHE64-316" id="261" weight="6.402158902675932" />
+      <edge source="ASP60-296" target="PHE61-301" id="262" weight="3.7786604723703783" />
+      <edge source="ASP60-296" target="PRO62-306" id="263" weight="5.678540633144701" />
+      <edge source="ASP60-296" target="GLU63-311" id="264" weight="5.395820083860888" />
+      <edge source="ASP60-296" target="PHE64-316" id="265" weight="6.15850572736416" />
+      <edge source="PHE61-301" target="PRO62-306" id="266" weight="3.753786079193414" />
+      <edge source="PHE61-301" target="GLU63-311" id="267" weight="5.372808243073643" />
+      <edge source="PHE61-301" target="PHE64-316" id="268" weight="4.897520462880044" />
+      <edge source="PHE61-301" target="LEU65-321" id="269" weight="5.968227195155786" />
+      <edge source="PHE61-301" target="LEU108-536" id="270" weight="7.38462089016956" />
+      <edge source="PRO62-306" target="GLU63-311" id="271" weight="3.823870253081879" />
+      <edge source="PRO62-306" target="PHE64-316" id="272" weight="5.338956742312437" />
+      <edge source="PRO62-306" target="LEU65-321" id="273" weight="5.029278435997806" />
+      <edge source="PRO62-306" target="THR66-326" id="274" weight="6.15474080346608" />
+      <edge source="PRO62-306" target="LEU108-536" id="275" weight="7.815474913462183" />
+      <edge source="GLU63-311" target="PHE64-316" id="276" weight="3.7428047836851555" />
+      <edge source="GLU63-311" target="LEU65-321" id="277" weight="5.436825284209646" />
+      <edge source="GLU63-311" target="THR66-326" id="278" weight="5.134294409935195" />
+      <edge source="GLU63-311" target="MET67-331" id="279" weight="6.291768344796804" />
+      <edge source="PHE64-316" target="LEU65-321" id="280" weight="3.75553468209445" />
+      <edge source="PHE64-316" target="THR66-326" id="281" weight="5.4445625748246576" />
+      <edge source="PHE64-316" target="MET67-331" id="282" weight="5.080174541145359" />
+      <edge source="PHE64-316" target="MET68-336" id="283" weight="6.278534901799193" />
+      <edge source="LEU65-321" target="THR66-326" id="284" weight="3.84601380942135" />
+      <edge source="LEU65-321" target="MET67-331" id="285" weight="5.267019166675103" />
+      <edge source="LEU65-321" target="MET68-336" id="286" weight="5.002780505519755" />
+      <edge source="LEU65-321" target="ALA69-341" id="287" weight="6.085510379770209" />
+      <edge source="THR66-326" target="MET67-331" id="288" weight="3.789448308813484" />
+      <edge source="THR66-326" target="MET68-336" id="289" weight="5.491889703607266" />
+      <edge source="THR66-326" target="ALA69-341" id="290" weight="5.1050198338765655" />
+      <edge source="THR66-326" target="ARG70-346" id="291" weight="6.408978628276831" />
+      <edge source="MET67-331" target="MET68-336" id="292" weight="3.7391432644224443" />
+      <edge source="MET67-331" target="ALA69-341" id="293" weight="5.334539733211819" />
+      <edge source="MET67-331" target="ARG70-346" id="294" weight="5.256018978247949" />
+      <edge source="MET67-331" target="LYS71-351" id="295" weight="5.946076726793153" />
+      <edge source="MET68-336" target="ALA69-341" id="296" weight="3.7188257111949614" />
+      <edge source="MET68-336" target="ARG70-346" id="297" weight="5.321588771496558" />
+      <edge source="MET68-336" target="LYS71-351" id="298" weight="5.0605149990493326" />
+      <edge source="MET68-336" target="MET72-356" id="299" weight="6.172675097846719" />
+      <edge source="ALA69-341" target="ARG70-346" id="300" weight="3.7148062048155497" />
+      <edge source="ALA69-341" target="LYS71-351" id="301" weight="5.733801921676746" />
+      <edge source="ALA69-341" target="MET72-356" id="302" weight="5.730163262893148" />
+      <edge source="ALA69-341" target="GLU80-396" id="303" weight="6.63639704327149" />
+      <edge source="ALA69-341" target="GLU83-411" id="304" weight="7.517944253966913" />
+      <edge source="ALA69-341" target="ALA84-416" id="305" weight="6.673587864568531" />
+      <edge source="ARG70-346" target="LYS71-351" id="306" weight="3.7627939746223746" />
+      <edge source="ARG70-346" target="MET72-356" id="307" weight="5.327898115802299" />
+      <edge source="ARG70-346" target="LYS73-361" id="308" weight="6.817930391489699" />
+      <edge source="ARG70-346" target="ASP74-366" id="309" weight="6.522810632808978" />
+      <edge source="ARG70-346" target="GLU80-396" id="310" weight="5.768039562924307" />
+      <edge source="LYS71-351" target="MET72-356" id="311" weight="3.8041485003007023" />
+      <edge source="LYS71-351" target="LYS73-361" id="312" weight="5.511223311910457" />
+      <edge source="LYS71-351" target="ASP74-366" id="313" weight="7.063217106459014" />
+      <edge source="MET72-356" target="LYS73-361" id="314" weight="3.6899566177976286" />
+      <edge source="MET72-356" target="ASP74-366" id="315" weight="6.215813555028121" />
+      <edge source="MET72-356" target="GLU80-396" id="316" weight="7.982253941260856" />
+      <edge source="LYS73-361" target="ASP74-366" id="317" weight="3.7024271029526976" />
+      <edge source="LYS73-361" target="THR75-371" id="318" weight="6.554962570730355" />
+      <edge source="ASP74-366" target="THR75-371" id="319" weight="3.76433657706196" />
+      <edge source="ASP74-366" target="ASP76-376" id="320" weight="4.981393588810937" />
+      <edge source="ASP74-366" target="SER77-381" id="321" weight="6.922101738110255" />
+      <edge source="ASP74-366" target="GLU79-391" id="322" weight="6.177031089612089" />
+      <edge source="ASP74-366" target="GLU80-396" id="323" weight="5.695760056730761" />
+      <edge source="THR75-371" target="ASP76-376" id="324" weight="3.8255171910223766" />
+      <edge source="THR75-371" target="SER77-381" id="325" weight="7.328870881050178" />
+      <edge source="THR75-371" target="GLU79-391" id="326" weight="7.122270770637475" />
+      <edge source="ASP76-376" target="SER77-381" id="327" weight="3.816372881043966" />
+      <edge source="ASP76-376" target="GLU78-386" id="328" weight="5.079392827437225" />
+      <edge source="ASP76-376" target="GLU79-391" id="329" weight="5.002403820835333" />
+      <edge source="ASP76-376" target="GLU80-396" id="330" weight="6.3296778187902465" />
+      <edge source="SER77-381" target="GLU78-386" id="331" weight="3.719434100085695" />
+      <edge source="SER77-381" target="GLU79-391" id="332" weight="5.464828540662619" />
+      <edge source="SER77-381" target="GLU80-396" id="333" weight="5.260306362314106" />
+      <edge source="SER77-381" target="ILE81-401" id="334" weight="6.221802569582129" />
+      <edge source="GLU78-386" target="GLU79-391" id="335" weight="3.746441651394333" />
+      <edge source="GLU78-386" target="GLU80-396" id="336" weight="5.473901769165426" />
+      <edge source="GLU78-386" target="ILE81-401" id="337" weight="5.132710089797579" />
+      <edge source="GLU78-386" target="ARG82-406" id="338" weight="6.143317742003222" />
+      <edge source="GLU79-391" target="GLU80-396" id="339" weight="3.7531216649720567" />
+      <edge source="GLU79-391" target="ILE81-401" id="340" weight="5.299852055076494" />
+      <edge source="GLU79-391" target="ARG82-406" id="341" weight="4.920897833458382" />
+      <edge source="GLU79-391" target="GLU83-411" id="342" weight="6.152521365572572" />
+      <edge source="GLU80-396" target="ILE81-401" id="343" weight="3.7745684486377935" />
+      <edge source="GLU80-396" target="ARG82-406" id="344" weight="5.349291073054506" />
+      <edge source="GLU80-396" target="GLU83-411" id="345" weight="5.080919611469012" />
+      <edge source="GLU80-396" target="ALA84-416" id="346" weight="6.369744460551181" />
+      <edge source="ILE81-401" target="ARG82-406" id="347" weight="3.73890707834516" />
+      <edge source="ILE81-401" target="GLU83-411" id="348" weight="5.3426377698061875" />
+      <edge source="ILE81-401" target="ALA84-416" id="349" weight="5.107379320257922" />
+      <edge source="ILE81-401" target="PHE85-421" id="350" weight="6.170627934921325" />
+      <edge source="ILE81-401" target="VAL138-686" id="351" weight="6.170418058041012" />
+      <edge source="ILE81-401" target="MET141-701" id="352" weight="7.177560257909093" />
+      <edge source="ARG82-406" target="GLU83-411" id="353" weight="3.7405431208879643" />
+      <edge source="ARG82-406" target="ALA84-416" id="354" weight="5.344802250691063" />
+      <edge source="ARG82-406" target="PHE85-421" id="355" weight="4.99645370362781" />
+      <edge source="ARG82-406" target="ARG86-426" id="356" weight="6.353292328157548" />
+      <edge source="ARG82-406" target="TYR134-666" id="357" weight="7.807196905805369" />
+      <edge source="ARG82-406" target="VAL138-686" id="358" weight="7.751952113666641" />
+      <edge source="GLU83-411" target="ALA84-416" id="359" weight="3.772412322444655" />
+      <edge source="GLU83-411" target="PHE85-421" id="360" weight="5.416679435102548" />
+      <edge source="GLU83-411" target="ARG86-426" id="361" weight="5.245659175374304" />
+      <edge source="GLU83-411" target="VAL87-431" id="362" weight="6.719087810300891" />
+      <edge source="ALA84-416" target="PHE85-421" id="363" weight="3.759951985981981" />
+      <edge source="ALA84-416" target="ARG86-426" id="364" weight="5.325500330703561" />
+      <edge source="ALA84-416" target="VAL87-431" id="365" weight="5.182573977167108" />
+      <edge source="ALA84-416" target="PHE88-436" id="366" weight="6.733458299284152" />
+      <edge source="PHE85-421" target="ARG86-426" id="367" weight="3.8058101028100637" />
+      <edge source="PHE85-421" target="VAL87-431" id="368" weight="5.413456321484546" />
+      <edge source="PHE85-421" target="PHE88-436" id="369" weight="5.342184803617262" />
+      <edge source="PHE85-421" target="ASP89-441" id="370" weight="6.209524854737637" />
+      <edge source="PHE85-421" target="TYR134-666" id="371" weight="6.7292724920977545" />
+      <edge source="PHE85-421" target="PHE137-681" id="372" weight="6.651947860454723" />
+      <edge source="PHE85-421" target="VAL138-686" id="373" weight="7.893422656595853" />
+      <edge source="ARG86-426" target="VAL87-431" id="374" weight="3.826863582776039" />
+      <edge source="ARG86-426" target="PHE88-436" id="375" weight="5.406269546218457" />
+      <edge source="ARG86-426" target="ASP89-441" id="376" weight="5.026351483775591" />
+      <edge source="ARG86-426" target="LYS90-446" id="377" weight="6.837721375889251" />
+      <edge source="ARG86-426" target="GLY92-456" id="378" weight="6.853190278907049" />
+      <edge source="VAL87-431" target="PHE88-436" id="379" weight="3.739506679826866" />
+      <edge source="VAL87-431" target="ASP89-441" id="380" weight="5.552720531185341" />
+      <edge source="VAL87-431" target="LYS90-446" id="381" weight="6.109280332452347" />
+      <edge source="PHE88-436" target="ASP89-441" id="382" weight="3.7196877999647904" />
+      <edge source="PHE88-436" target="LYS90-446" id="383" weight="5.534822119255671" />
+      <edge source="PHE88-436" target="ILE96-476" id="384" weight="6.215619091204379" />
+      <edge source="PHE88-436" target="GLU100-496" id="385" weight="6.506898306727824" />
+      <edge source="PHE88-436" target="LEU101-501" id="386" weight="6.398674010309574" />
+      <edge source="PHE88-436" target="VAL104-516" id="387" weight="6.643172244668725" />
+      <edge source="ASP89-441" target="LYS90-446" id="388" weight="3.7783525183072557" />
+      <edge source="ASP89-441" target="ASP91-451" id="389" weight="5.697938781113609" />
+      <edge source="ASP89-441" target="GLY92-456" id="390" weight="5.245044503535986" />
+      <edge source="ASP89-441" target="ASN93-461" id="391" weight="7.004480909906151" />
+      <edge source="ASP89-441" target="GLY94-466" id="392" weight="6.67226144730321" />
+      <edge source="ASP89-441" target="TYR95-471" id="393" weight="6.116391711964241" />
+      <edge source="ASP89-441" target="ILE96-476" id="394" weight="4.96658873880484" />
+      <edge source="ASP89-441" target="SER97-481" id="395" weight="7.6621716940918505" />
+      <edge source="ASP89-441" target="GLU100-496" id="396" weight="6.674284217172552" />
+      <edge source="LYS90-446" target="ASP91-451" id="397" weight="3.7754332587506014" />
+      <edge source="LYS90-446" target="GLY92-456" id="398" weight="5.497705141184711" />
+      <edge source="LYS90-446" target="ILE96-476" id="399" weight="7.80733754624886" />
+      <edge source="LYS90-446" target="GLU100-496" id="400" weight="6.478698646736742" />
+      <edge source="ASP91-451" target="GLY92-456" id="401" weight="3.753977998925575" />
+      <edge source="ASP91-451" target="ASN93-461" id="402" weight="5.700180380356643" />
+      <edge source="GLY92-456" target="ASN93-461" id="403" weight="3.760122168011277" />
+      <edge source="GLY92-456" target="GLY94-466" id="404" weight="5.567015392492038" />
+      <edge source="GLY92-456" target="TYR95-471" id="405" weight="7.487575165566765" />
+      <edge source="ASN93-461" target="GLY94-466" id="406" weight="3.7534426463353068" />
+      <edge source="ASN93-461" target="TYR95-471" id="407" weight="5.721419990464689" />
+      <edge source="GLY94-466" target="TYR95-471" id="408" weight="3.8196380429344643" />
+      <edge source="GLY94-466" target="ILE96-476" id="409" weight="7.00220913331538" />
+      <edge source="GLY94-466" target="ASN133-661" id="410" weight="6.544332020781903" />
+      <edge source="GLY94-466" target="TYR134-666" id="411" weight="7.0494221045798495" />
+      <edge source="TYR95-471" target="ILE96-476" id="412" weight="3.775065853391448" />
+      <edge source="TYR95-471" target="SER97-481" id="413" weight="6.1831006978374905" />
+      <edge source="TYR95-471" target="GLN131-651" id="414" weight="6.5504456115741965" />
+      <edge source="TYR95-471" target="VAL132-656" id="415" weight="5.802661157944386" />
+      <edge source="TYR95-471" target="ASN133-661" id="416" weight="5.011137996594073" />
+      <edge source="TYR95-471" target="TYR134-666" id="417" weight="7.158073921672741" />
+      <edge source="ILE96-476" target="SER97-481" id="418" weight="3.739864214346827" />
+      <edge source="ILE96-476" target="ALA98-486" id="419" weight="6.748990630879976" />
+      <edge source="ILE96-476" target="GLU100-496" id="420" weight="6.061743511407787" />
+      <edge source="ILE96-476" target="LEU101-501" id="421" weight="6.614652446654201" />
+      <edge source="ILE96-476" target="GLN131-651" id="422" weight="6.044519801316542" />
+      <edge source="ILE96-476" target="VAL132-656" id="423" weight="5.332406425128703" />
+      <edge source="ILE96-476" target="ASN133-661" id="424" weight="6.688350942422497" />
+      <edge source="SER97-481" target="ALA98-486" id="425" weight="3.7713303606120117" />
+      <edge source="SER97-481" target="ALA99-491" id="426" weight="5.320672257835428" />
+      <edge source="SER97-481" target="GLU100-496" id="427" weight="5.095419287282613" />
+      <edge source="SER97-481" target="LEU101-501" id="428" weight="6.246225198453721" />
+      <edge source="SER97-481" target="GLN131-651" id="429" weight="5.662669629744954" />
+      <edge source="SER97-481" target="VAL132-656" id="430" weight="7.116605923611532" />
+      <edge source="ALA98-486" target="ALA99-491" id="431" weight="3.8019536594605174" />
+      <edge source="ALA98-486" target="GLU100-496" id="432" weight="5.403686991263318" />
+      <edge source="ALA98-486" target="LEU101-501" id="433" weight="5.15577856436069" />
+      <edge source="ALA98-486" target="ARG102-506" id="434" weight="6.043958786593057" />
+      <edge source="ALA98-486" target="VAL117-581" id="435" weight="6.675626721128964" />
+      <edge source="ALA98-486" target="ASP118-586" id="436" weight="6.944659966082653" />
+      <edge source="ALA98-486" target="ILE121-601" id="437" weight="7.3133586227998295" />
+      <edge source="ALA98-486" target="GLN131-651" id="438" weight="7.257048861651104" />
+      <edge source="ALA99-491" target="GLU100-496" id="439" weight="3.7526438105861097" />
+      <edge source="ALA99-491" target="LEU101-501" id="440" weight="5.539705271310116" />
+      <edge source="ALA99-491" target="ARG102-506" id="441" weight="5.126235502375294" />
+      <edge source="ALA99-491" target="HIS103-511" id="442" weight="6.205462143537159" />
+      <edge source="GLU100-496" target="LEU101-501" id="443" weight="3.805804195031997" />
+      <edge source="GLU100-496" target="ARG102-506" id="444" weight="5.3841712390111" />
+      <edge source="GLU100-496" target="HIS103-511" id="445" weight="5.0601264221472535" />
+      <edge source="GLU100-496" target="VAL104-516" id="446" weight="6.404305521800826" />
+      <edge source="LEU101-501" target="ARG102-506" id="447" weight="3.7808820807981522" />
+      <edge source="LEU101-501" target="HIS103-511" id="448" weight="5.376540975219761" />
+      <edge source="LEU101-501" target="VAL104-516" id="449" weight="5.29544764687207" />
+      <edge source="LEU101-501" target="MET105-521" id="450" weight="6.165248021357962" />
+      <edge source="LEU101-501" target="VAL117-581" id="451" weight="7.292657973794946" />
+      <edge source="ARG102-506" target="HIS103-511" id="452" weight="3.848023807957825" />
+      <edge source="ARG102-506" target="VAL104-516" id="453" weight="5.591212511323003" />
+      <edge source="ARG102-506" target="MET105-521" id="454" weight="5.081865291670346" />
+      <edge source="ARG102-506" target="THR106-526" id="455" weight="6.087556232129232" />
+      <edge source="ARG102-506" target="LYS111-551" id="456" weight="7.827628785715076" />
+      <edge source="ARG102-506" target="LEU112-556" id="457" weight="7.134450170024526" />
+      <edge source="ARG102-506" target="ASP114-566" id="458" weight="7.96772036274782" />
+      <edge source="ARG102-506" target="VAL117-581" id="459" weight="6.522683011542742" />
+      <edge source="HIS103-511" target="VAL104-516" id="460" weight="3.7532900145742736" />
+      <edge source="HIS103-511" target="MET105-521" id="461" weight="5.388951080485327" />
+      <edge source="HIS103-511" target="THR106-526" id="462" weight="5.196799548376504" />
+      <edge source="HIS103-511" target="ASN107-531" id="463" weight="6.188065275114471" />
+      <edge source="VAL104-516" target="MET105-521" id="464" weight="3.8286595348386703" />
+      <edge source="VAL104-516" target="THR106-526" id="465" weight="5.501650057736209" />
+      <edge source="VAL104-516" target="ASN107-531" id="466" weight="5.194464782839373" />
+      <edge source="VAL104-516" target="LEU108-536" id="467" weight="6.201839182299461" />
+      <edge source="MET105-521" target="THR106-526" id="468" weight="3.7416628779617063" />
+      <edge source="MET105-521" target="ASN107-531" id="469" weight="5.488099111479756" />
+      <edge source="MET105-521" target="LEU108-536" id="470" weight="5.10581384576638" />
+      <edge source="MET105-521" target="GLY109-541" id="471" weight="6.400355442965306" />
+      <edge source="MET105-521" target="GLU110-546" id="472" weight="5.180637966872994" />
+      <edge source="MET105-521" target="LYS111-551" id="473" weight="6.5414369373475925" />
+      <edge source="MET105-521" target="LEU112-556" id="474" weight="7.457712837481142" />
+      <edge source="THR106-526" target="ASN107-531" id="475" weight="3.8098263835489097" />
+      <edge source="THR106-526" target="LEU108-536" id="476" weight="5.325345644953067" />
+      <edge source="THR106-526" target="GLY109-541" id="477" weight="5.033005315579661" />
+      <edge source="THR106-526" target="GLU110-546" id="478" weight="4.883965324741199" />
+      <edge source="THR106-526" target="LYS111-551" id="479" weight="4.973999588718341" />
+      <edge source="THR106-526" target="LEU112-556" id="480" weight="7.4283596287350635" />
+      <edge source="ASN107-531" target="LEU108-536" id="481" weight="3.807915556696823" />
+      <edge source="ASN107-531" target="GLY109-541" id="482" weight="5.282121939803354" />
+      <edge source="ASN107-531" target="GLU110-546" id="483" weight="7.254875471623708" />
+      <edge source="LEU108-536" target="GLY109-541" id="484" weight="3.782288027147949" />
+      <edge source="LEU108-536" target="GLU110-546" id="485" weight="5.843019063236624" />
+      <edge source="GLY109-541" target="GLU110-546" id="486" weight="3.7831369578623715" />
+      <edge source="GLY109-541" target="LYS111-551" id="487" weight="6.348017993699727" />
+      <edge source="GLU110-546" target="LYS111-551" id="488" weight="3.7450707025189858" />
+      <edge source="GLU110-546" target="LEU112-556" id="489" weight="6.093614362028636" />
+      <edge source="LYS111-551" target="LEU112-556" id="490" weight="3.7963128459152626" />
+      <edge source="LYS111-551" target="THR113-561" id="491" weight="6.956678265283369" />
+      <edge source="LEU112-556" target="THR113-561" id="492" weight="3.788823960123981" />
+      <edge source="LEU112-556" target="ASP114-566" id="493" weight="6.558873018054922" />
+      <edge source="LEU112-556" target="GLU115-571" id="494" weight="7.9494818872287905" />
+      <edge source="LEU112-556" target="GLU116-576" id="495" weight="5.8693480776618046" />
+      <edge source="LEU112-556" target="VAL117-581" id="496" weight="6.441424153772323" />
+      <edge source="THR113-561" target="ASP114-566" id="497" weight="3.7725839431049453" />
+      <edge source="THR113-561" target="GLU115-571" id="498" weight="5.225013584444281" />
+      <edge source="THR113-561" target="GLU116-576" id="499" weight="5.130183060855272" />
+      <edge source="THR113-561" target="VAL117-581" id="500" weight="6.358832468793396" />
+      <edge source="ASP114-566" target="GLU115-571" id="501" weight="3.7812953911498033" />
+      <edge source="ASP114-566" target="GLU116-576" id="502" weight="5.385294033788371" />
+      <edge source="ASP114-566" target="VAL117-581" id="503" weight="5.094859833724345" />
+      <edge source="ASP114-566" target="ASP118-586" id="504" weight="6.022589203095083" />
+      <edge source="GLU115-571" target="GLU116-576" id="505" weight="3.7934497749342664" />
+      <edge source="GLU115-571" target="VAL117-581" id="506" weight="5.500583240035608" />
+      <edge source="GLU115-571" target="ASP118-586" id="507" weight="5.085654652336925" />
+      <edge source="GLU115-571" target="GLU119-591" id="508" weight="6.29678043241608" />
+      <edge source="GLU116-576" target="VAL117-581" id="509" weight="3.7424298473586695" />
+      <edge source="GLU116-576" target="ASP118-586" id="510" weight="5.361023709532251" />
+      <edge source="GLU116-576" target="GLU119-591" id="511" weight="5.191842449019627" />
+      <edge source="GLU116-576" target="MET120-596" id="512" weight="6.411846052520689" />
+      <edge source="VAL117-581" target="ASP118-586" id="513" weight="3.803070422453135" />
+      <edge source="VAL117-581" target="GLU119-591" id="514" weight="5.407318079824028" />
+      <edge source="VAL117-581" target="MET120-596" id="515" weight="5.089507370362307" />
+      <edge source="VAL117-581" target="ILE121-601" id="516" weight="6.320820668291757" />
+      <edge source="ASP118-586" target="GLU119-591" id="517" weight="3.7617228761945087" />
+      <edge source="ASP118-586" target="MET120-596" id="518" weight="5.340237784700006" />
+      <edge source="ASP118-586" target="ILE121-601" id="519" weight="5.052513813590382" />
+      <edge source="ASP118-586" target="ARG122-606" id="520" weight="6.085465468458935" />
+      <edge source="GLU119-591" target="MET120-596" id="521" weight="3.7727313180908917" />
+      <edge source="GLU119-591" target="ILE121-601" id="522" weight="5.353081274340629" />
+      <edge source="GLU119-591" target="ARG122-606" id="523" weight="4.959125924074394" />
+      <edge source="GLU119-591" target="GLU123-611" id="524" weight="6.2339085551422" />
+      <edge source="MET120-596" target="ILE121-601" id="525" weight="3.7539572676552697" />
+      <edge source="MET120-596" target="ARG122-606" id="526" weight="5.431173596096171" />
+      <edge source="MET120-596" target="GLU123-611" id="527" weight="5.247920782261889" />
+      <edge source="MET120-596" target="ALA124-616" id="528" weight="6.713307670375406" />
+      <edge source="ILE121-601" target="ARG122-606" id="529" weight="3.792254520417342" />
+      <edge source="ILE121-601" target="GLU123-611" id="530" weight="5.378763476786752" />
+      <edge source="ILE121-601" target="ALA124-616" id="531" weight="5.333046271072964" />
+      <edge source="ILE121-601" target="ASP125-621" id="532" weight="5.814836321533781" />
+      <edge source="ILE121-601" target="GLY130-646" id="533" weight="7.048682221936402" />
+      <edge source="ILE121-601" target="GLN131-651" id="534" weight="6.5497715565375305" />
+      <edge source="ILE121-601" target="VAL132-656" id="535" weight="6.802794425664818" />
+      <edge source="ARG122-606" target="GLU123-611" id="536" weight="3.782615618009393" />
+      <edge source="ARG122-606" target="ALA124-616" id="537" weight="5.42173911150495" />
+      <edge source="ARG122-606" target="ASP125-621" id="538" weight="5.007188936874787" />
+      <edge source="ARG122-606" target="ILE126-626" id="539" weight="7.879466210419724" />
+      <edge source="ARG122-606" target="GLY128-636" id="540" weight="7.604905324545993" />
+      <edge source="ARG122-606" target="GLY130-646" id="541" weight="7.005866799187985" />
+      <edge source="GLU123-611" target="ALA124-616" id="542" weight="3.7598213512592946" />
+      <edge source="GLU123-611" target="ASP125-621" id="543" weight="5.726100587242541" />
+      <edge source="GLU123-611" target="ILE126-626" id="544" weight="7.715319825028946" />
+      <edge source="ALA124-616" target="ASP125-621" id="545" weight="3.7290872175283067" />
+      <edge source="ALA124-616" target="ILE126-626" id="546" weight="5.944602011493283" />
+      <edge source="ALA124-616" target="VAL132-656" id="547" weight="6.611959310644184" />
+      <edge source="ALA124-616" target="GLU136-676" id="548" weight="6.227236136015163" />
+      <edge source="ALA124-616" target="PHE137-681" id="549" weight="7.199831930742413" />
+      <edge source="ALA124-616" target="GLN139-691" id="550" weight="7.966198538029596" />
+      <edge source="ALA124-616" target="MET140-696" id="551" weight="6.267130519796885" />
+      <edge source="ASP125-621" target="ILE126-626" id="552" weight="3.8062197662738333" />
+      <edge source="ASP125-621" target="ASP127-631" id="553" weight="5.735721225814915" />
+      <edge source="ASP125-621" target="GLY128-636" id="554" weight="5.430206791951883" />
+      <edge source="ASP125-621" target="ASP129-641" id="555" weight="7.085170607811424" />
+      <edge source="ASP125-621" target="GLY130-646" id="556" weight="6.413595602118691" />
+      <edge source="ASP125-621" target="GLN131-651" id="557" weight="6.20720806926887" />
+      <edge source="ASP125-621" target="VAL132-656" id="558" weight="5.554447764635755" />
+      <edge source="ASP125-621" target="GLU136-676" id="559" weight="6.59348626325846" />
+      <edge source="ILE126-626" target="ASP127-631" id="560" weight="3.732795647268963" />
+      <edge source="ILE126-626" target="GLY128-636" id="561" weight="5.4593794164540155" />
+      <edge source="ILE126-626" target="GLU136-676" id="562" weight="6.752574586577189" />
+      <edge source="ASP127-631" target="GLY128-636" id="563" weight="3.7744104095198003" />
+      <edge source="ASP127-631" target="ASP129-641" id="564" weight="5.772768985746993" />
+      <edge source="GLY128-636" target="ASP129-641" id="565" weight="3.818298298306724" />
+      <edge source="GLY128-636" target="GLY130-646" id="566" weight="5.487608299975378" />
+      <edge source="GLY128-636" target="GLN131-651" id="567" weight="7.630227059760178" />
+      <edge source="ASP129-641" target="GLY130-646" id="568" weight="3.7608776599955163" />
+      <edge source="ASP129-641" target="GLN131-651" id="569" weight="5.690666237831457" />
+      <edge source="GLY130-646" target="GLN131-651" id="570" weight="3.7644103106481066" />
+      <edge source="GLY130-646" target="VAL132-656" id="571" weight="7.015976675369248" />
+      <edge source="GLN131-651" target="VAL132-656" id="572" weight="3.760230257604455" />
+      <edge source="GLN131-651" target="ASN133-661" id="573" weight="6.571370112364087" />
+      <edge source="VAL132-656" target="ASN133-661" id="574" weight="3.8394635671170625" />
+      <edge source="VAL132-656" target="TYR134-666" id="575" weight="6.781544057859485" />
+      <edge source="VAL132-656" target="GLU136-676" id="576" weight="5.839976670552183" />
+      <edge source="VAL132-656" target="PHE137-681" id="577" weight="6.248566287982527" />
+      <edge source="ASN133-661" target="TYR134-666" id="578" weight="3.810801798502967" />
+      <edge source="ASN133-661" target="GLU135-671" id="579" weight="5.587046943882537" />
+      <edge source="ASN133-661" target="GLU136-676" id="580" weight="5.288261306815021" />
+      <edge source="ASN133-661" target="PHE137-681" id="581" weight="6.071519169720947" />
+      <edge source="TYR134-666" target="GLU135-671" id="582" weight="3.790141648031706" />
+      <edge source="TYR134-666" target="GLU136-676" id="583" weight="5.304676306394583" />
+      <edge source="TYR134-666" target="PHE137-681" id="584" weight="4.8076172198608145" />
+      <edge source="TYR134-666" target="VAL138-686" id="585" weight="6.072838355636808" />
+      <edge source="GLU135-671" target="GLU136-676" id="586" weight="3.734299189871792" />
+      <edge source="GLU135-671" target="PHE137-681" id="587" weight="5.3994158756341735" />
+      <edge source="GLU135-671" target="VAL138-686" id="588" weight="5.186650951205786" />
+      <edge source="GLU135-671" target="GLN139-691" id="589" weight="6.34869988991928" />
+      <edge source="GLU136-676" target="PHE137-681" id="590" weight="3.7646918283287714" />
+      <edge source="GLU136-676" target="VAL138-686" id="591" weight="5.358140876550859" />
+      <edge source="GLU136-676" target="GLN139-691" id="592" weight="5.076381803326339" />
+      <edge source="GLU136-676" target="MET140-696" id="593" weight="6.19219579915197" />
+      <edge source="PHE137-681" target="VAL138-686" id="594" weight="3.805643732534919" />
+      <edge source="PHE137-681" target="GLN139-691" id="595" weight="5.473207072678708" />
+      <edge source="PHE137-681" target="MET140-696" id="596" weight="5.171751456528611" />
+      <edge source="PHE137-681" target="MET141-701" id="597" weight="6.347000819919477" />
+      <edge source="VAL138-686" target="GLN139-691" id="598" weight="3.811826621973277" />
+      <edge source="VAL138-686" target="MET140-696" id="599" weight="5.328631745295555" />
+      <edge source="VAL138-686" target="MET141-701" id="600" weight="5.067933034850499" />
+      <edge source="VAL138-686" target="THR142-706" id="601" weight="6.093766425312349" />
+      <edge source="VAL138-686" target="ALA143-711" id="602" weight="7.102597651174691" />
+      <edge source="GLN139-691" target="MET140-696" id="603" weight="3.6425389389964664" />
+      <edge source="GLN139-691" target="MET141-701" id="604" weight="5.315913984269317" />
+      <edge source="GLN139-691" target="THR142-706" id="605" weight="5.362907306247728" />
+      <edge source="GLN139-691" target="ALA143-711" id="606" weight="4.305197492213207" />
+      <edge source="MET140-696" target="MET141-701" id="607" weight="3.7544634317982206" />
+      <edge source="MET140-696" target="THR142-706" id="608" weight="5.79254843959541" />
+      <edge source="MET140-696" target="ALA143-711" id="609" weight="5.811752590783608" />
+      <edge source="MET141-701" target="THR142-706" id="610" weight="3.733629870907918" />
+      <edge source="MET141-701" target="ALA143-711" id="611" weight="6.167369392221176" />
+      <edge source="THR142-706" target="ALA143-711" id="612" weight="3.7588901062673803" />
+    </edges>
+  </graph>
+</gexf>

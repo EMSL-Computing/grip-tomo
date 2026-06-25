@@ -1,0 +1,72 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "griptomo"
+version = "2.0.0"
+description = "GRaph Identification of Proteins in TOMOgrams."
+readme = "README.md"
+license = { text = "BSD-2-Clause" }
+authors = [
+    { name = "August George", email = "august.george@pnnl.gov" }
+]
+requires-python = ">=3.10"
+keywords = ["cryo-ET", "tomography", "graph", "protein classification", "machine learning"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: BSD License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+dependencies = [
+    "numpy==1.26.4",
+    "pandas==2.2.2",
+    "networkx==3.3",
+    "mrcfile==1.5.3",
+    "biopython==1.84",
+    "scipy==1.14.0",
+    "matplotlib==3.9.2",
+    "scikit-learn==1.5.1",
+    "igraph==0.11.6",
+    "hdbscan==0.8.39"
+]
+[project.optional-dependencies]
+parsl = ["parsl==2024.9.16",
+         "sqlalchemy==2.0.37"]
+
+dev = [
+    "pytest==8.3.2",
+    "pdoc==15.0.0",
+    "tqdm==4.67.1",
+    "seaborn==0.13.2",
+    "jupyterlab==4.3.3",
+]
+
+# pip config set global.extra-index-url https://pypi.nvidia.com
+gpu-cu12 = [
+    "cudf-cu12==25.2.* ; platform_system == 'Linux' and platform_machine == 'x86_64'",
+    "cuml-cu12==25.2.* ; platform_system == 'Linux' and platform_machine == 'x86_64'",
+    "cugraph-cu12==25.2.* ; platform_system == 'Linux' and platform_machine == 'x86_64'",
+]
+
+gpu-cu11 = [
+    "cudf-cu11==25.2.* ; platform_system == 'Linux' and platform_machine == 'x86_64'",
+    "cuml-cu11==25.2.* ; platform_system == 'Linux' and platform_machine == 'x86_64'",
+    "cugraph-cu11==25.2.* ; platform_system == 'Linux' and platform_machine == 'x86_64'",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/EMSL-Computing/grip-tomo"
+"Repository" = "https://github.com/EMSL-Computing/grip-tomo"
+"Bug Tracker" = "https://github.com/EMSL-Computing/grip-tomo/issues"
+"Changelog" = "https://github.com/EMSL-Computing/grip-tomo/blob/main/docs/CHANGELOG_2.0.0_alpha.md"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["griptomo*"]
+

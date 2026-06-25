@@ -1,0 +1,5 @@
+doseval 5 8
+frameval 1
+thickval 20
+phaseval 0.5
+defocusval 16000
