@@ -1,5 +1,10 @@
 # GRIP-Tomo 2.0
 
+<!-- badges: start -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645986.svg)](https://doi.org/10.5281/zenodo.17645986)
+[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+[![Website](https://emsl-computing.github.io/grip-tomo/api/griptomo.html)
+
 Updated tooling for the GRIP-Tomo pipeline: convert cryo-ET subtomograms into graphs, extract features, and train machine-learning classifiers. 
 
 > **Note:** This is research software under active development. The software, interfaces, and workflow may change.
