@@ -39,6 +39,7 @@ Please cite our publication and accompanying software if you use it:
 
 > George, A, Kim, DN, Moser, T, Gildea, IT, Evans, JE, Cheung, MS. EMSL-Computing/grip-tomo: Version 1.0. Zenodo; 2023. https://doi.org/10.5281/zenodo.17127842 
 
+> George, A., Li, C., Neff, R., Kim, D. N., Moser, T., Baldwin, K., Nelson, M., Firoozfar, A., Evans, J. E., & Cheung, M. S. (2026). EMSL-Computing/grip-tomo: Version 2.0-alpha (v2.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.17645986
 
 ---
 
