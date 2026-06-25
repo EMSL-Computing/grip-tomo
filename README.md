@@ -18,7 +18,7 @@ Updated tooling for the GRIP-Tomo pipeline: convert cryo-ET subtomograms into gr
 > **Note:** GPU packages (cudf, cuML, cuGraph) are only available on Linux x86_64 with NVIDIA GPUs. The package works fine on macOS/other platforms without GPU support.
 
 ## Docs & Tutorials
-- API docs (`pdoc`): `docs/api/index.html`
+- API docs (`pdoc`): `docs/api/index.html` and [https://emsl-computing.github.io/grip-tomo/](https://emsl-computing.github.io/grip-tomo/)
 - Subtomogram simulation quickstart: `docs/cistem_subtomogram_simulation_quickstart.md`
 - Tutorial notebook (view in VS Code/Jupyter): `docs/tutorial_notebook/tutorial.ipynb`
 - Parsl on HPC quickstart: `docs/parsl_hpc_quickstart.md`
